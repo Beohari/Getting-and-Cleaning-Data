@@ -1,1 +1,1 @@
-# Getting-and-Cleaning-Data
+This code takes the training and test data on human activity using smartphones and combines the two data sets into one. It then only considers the variables that are either the mean or the standard deviation of one of the measurements. For each of the 30 subjects, and each of 6 activities, it displays the average of each of those 79 measurements.
